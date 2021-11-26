@@ -1,7 +1,11 @@
 ### Hi there 👋
 
+### My stats
+![Stats](https://github.com/joelimgu/github-stats/blob/master/generated/overview.svg)
+
 <!--
 **joelimgu/joelimgu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
