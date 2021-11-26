@@ -1,4 +1,22 @@
 ### Hi there 👋
+I code stuff. Currently working as a full-stack developer at [TicTap](https://www.tictap.me/) and
+studying CS at INSA Toulouse in whose [robotics club](https://clubrobotinsat.github.io/) I am part of. Interested in embedded development and 
+rustacean 🦀;
+
+## Languages:
+I really enjoy coding in:
+- Rust 🦀❤️
+- TS
+- Python
+
+But I've coded in some way or another in:
+- JS
+- "HTML/CSS"
+- SQL
+- C
+- Ada
+- LabVIEW
+
 
 ### My stats
 ![Stats](https://github.com/joelimgu/github-stats/blob/master/generated/overview.svg)
