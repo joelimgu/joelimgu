@@ -1,8 +1,5 @@
 ### Hi there 👋
-I code stuff. Currently working as a full-stack developer at [TicTap](https://www.tictap.me/) and
-studying CS at INSA Toulouse in whose [robotics club](https://clubrobotinsat.github.io/) I am part of. Interested in embedded development and 
-rustacean 🦀;
-
+I code stuff. 
 ## Languages:
 I really enjoy coding in:
 - Rust 🦀❤️
